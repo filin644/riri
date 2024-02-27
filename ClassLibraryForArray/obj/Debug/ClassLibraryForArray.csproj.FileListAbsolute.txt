@@ -1,0 +1,18 @@
+C:\Users\peppa\Desktop\Lab_2\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.dll
+C:\Users\peppa\Desktop\Lab_2\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.pdb
+C:\Users\peppa\Desktop\Lab_2\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csproj.AssemblyReference.cache
+C:\Users\peppa\Desktop\Lab_2\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csproj.CoreCompileInputs.cache
+C:\Users\peppa\Desktop\Lab_2\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.dll
+C:\Users\peppa\Desktop\Lab_2\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.pdb
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.dll
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.pdb
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csprojAssemblyReference.cache
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csproj.CoreCompileInputs.cache
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.dll
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.pdb
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.dll
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.pdb
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csprojAssemblyReference.cache
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csproj.CoreCompileInputs.cache
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.dll
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.pdb

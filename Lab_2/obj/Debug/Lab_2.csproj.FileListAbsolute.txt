@@ -1,0 +1,45 @@
+C:\Users\peppa\Desktop\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\peppa\Desktop\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\peppa\Desktop\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\peppa\Desktop\Lab_2\Lab_2\bin\Debug\ClassLibraryForArray.dll
+C:\Users\peppa\Desktop\Lab_2\Lab_2\bin\Debug\ClassLibraryForArray.pdb
+C:\Users\peppa\Desktop\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\peppa\Desktop\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\peppa\Desktop\Lab_2\Lab_2\obj\Debug\Lab_2.Multiples.resources
+C:\Users\peppa\Desktop\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\peppa\Desktop\Lab_2\Lab_2\obj\Debug\Lab_2.Table3.resources
+C:\Users\peppa\Desktop\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\peppa\Desktop\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\peppa\Desktop\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CopyComplete
+C:\Users\peppa\Desktop\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\peppa\Desktop\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\bin\Debug\ClassLibraryForArray.dll
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\bin\Debug\ClassLibraryForArray.pdb
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.Multiples.resources
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.Table3.resources
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CopyComplete
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+H:\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\bin\Debug\ClassLibraryForArray.dll
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\bin\Debug\ClassLibraryForArray.pdb
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.Multiples.resources
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.Table3.resources
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CopyComplete
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 2\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
